@@ -1,0 +1,1 @@
+document.getElementById('myP').textContent = 'welcome to my world of javaScript';
